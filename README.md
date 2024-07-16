@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://t.me/masterbotsguru'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://telegra.ph/file/31864e551b2e38b85bd55.jpg'/></a>
 
 
 <p align="center">                                              𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍-𝐌𝐃-𝐕2
@@ -8,7 +8,7 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h">
-    <img alt=Support height="350" src="https://t.me/masterbotsguru"> 
+    <img alt=Support height="350" src="https://telegra.ph/file/31864e551b2e38b85bd55.jpg"> 
     </p>
  
  
