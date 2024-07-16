@@ -10,12 +10,12 @@ global.email = 'textnow1pak@gmail.com'
 global.github = 'https://github.com/naveeddogar/KING-MD'
 global.location = 'pakistan'
 global.gurl = 'https://instagram.com/naveeddogar_' // add your username
-global.sudo = process.env.SUDO || '923096566451'
-global.devs = '923096566451';
+global.sudo = process.env.SUDO || '254740007567'
+global.devs = '254740007567';
 global.website = 'https://github.com/naveeddogar/KING-MD' // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/31864e551b2e38b85bd55.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'KING-MD' : process.env.BOT_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'KING-Marisel' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'King Marisel' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'Naveed-Dogar' : process.env.PACK_AUTHER.split(";")[0],
@@ -30,7 +30,7 @@ module.exports = {
   HANDLERS:  process.env.PREFIX === undefined ? '.' : process.env.PREFIX,
   warncount : process.env.WARN_COUNT === undefined ? 3 : process.env.WARN_COUNT,
   disablepm:  process.env.DISABLE_PM === undefined ? false : process.env.DISABLE_PM,
-  levelupmessage:  process.env.LEVEL_UP_MESSAGE === undefined ? false : process.env.LEVEL_UP_MESSAGE,
+  levelupmessage:  process.env.LEVEL_UP_MESSAGE === undefined ? true : process.env.LEVEL_UP_MESSAGE,
   antilink:  process.env.ANTILINK_VALUES === undefined ? 'chat.whatsapp.com' : process.env.ANTILINK_VALUES,
   antilinkaction: process.env.ANTILINK_ACTION === undefined ? 'remove' : process.env.ANTILINK_ACTION,
   BRANCH: 'main', 
