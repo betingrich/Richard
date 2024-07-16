@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://telegra.ph/file/31864e551b2e38b85bd55.jpg'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://telegra.ph/'/></a>
 
 
 <p align="center">                                              𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍-𝐌𝐃-𝐕2
