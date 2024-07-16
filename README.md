@@ -8,14 +8,14 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h">
-    <img alt=Support height="350" src="https://telegra.ph/file/9f7ae8da5615352023ff6.jpg"> 
+    <img alt=Support height="350" src="https://t.me/masterbotsguru"> 
     </p>
  
  
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+𝒌𝒆𝒏𝒚𝒂+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+King Marisel-MD+MADE+IN+𝒌𝒆𝒏𝒚𝒂+" alt="Typing SVG" /></a>
 
 
 
